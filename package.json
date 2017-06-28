@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.3",
+    "fetch-ponyfill": "^4.0.0",
     "morgan": "^1.8.2",
     "path": "^0.12.7",
     "request": "^2.81.0"
